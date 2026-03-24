@@ -7,3 +7,5 @@ This project focuses on managing and mitigating the existential risks associated
 
 Built in 6-hours (Post EV Rejection)
 Replaced Softmax with O(1) Mock Modular Kernels (f,ω,ϕ) via Horner’s Method to enable structural interpretability in Transformers.
+
+Status: It works! (Functional Prototype)

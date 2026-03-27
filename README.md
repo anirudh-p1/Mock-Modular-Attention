@@ -5,7 +5,8 @@ Research using a novel transformer attention mechanism that replaces standard he
 
 This project focuses on managing and mitigating the existential risks associated with misaligned AGI, by ensuring that sequential learning is governed by mathematical constraints rather than arbitrary weight fluctuations. Beyond safety, the implementation leverages truncated Taylor series approximations to maintain computational efficiency, leading towards robust, interpretable and high-performance sequential modelling, which is especially useful in sensitive domains like predictive healthcare and automated reasoning.
 
-Built in 6-hours (Post EV Rejection)
+Built in 6-hours
+
 Replaced Softmax with O(1) Mock Modular Kernels (f,ω,ϕ) via Horner’s Method to enable structural interpretability in Transformers.
 
 Status: It works! (Functional Prototype)
